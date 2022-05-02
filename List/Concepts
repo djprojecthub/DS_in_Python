@@ -1,0 +1,7 @@
+LIST
+    ->  Dynamic Size
+    ->  Allows items of different types
+
+BITWISE OPERATOR
+    ->  XOR
+        Suppose is x some number, than x ^ 0 = x and x ^ x = 0
